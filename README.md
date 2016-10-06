@@ -9,3 +9,9 @@
 ##Comand to run the server
 	docker-compose up
 	
+###If you want the server in background
+	docker-compose up -d
+	
+###To shut down the virtual machine
+	docker-compose kill
+	
