@@ -7,5 +7,5 @@
 	docker-compose build
 	
 ##Comand to run the server
-	docker-compose build
+	docker-compose up
 	
