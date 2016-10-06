@@ -4,8 +4,8 @@
 
 
 ##Comand to build the server the first time
-	`docker-compose build`
+	docker-compose build
 	
 ##Comand to run the server
-	`docker-compose build`
+	docker-compose build
 	
